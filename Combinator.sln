@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{8041C700-5167-4839-867D-2F8BB6DCE613}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargeTextParser", "LargeTextParser\LargeTextParser.csproj", "{A26A383A-2122-42D6-8C2C-D15AC2422E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargeFileSplitter", "LargeFileSplitter\LargeFileSplitter.csproj", "{E693C2F8-1BB3-4FF0-B344-18DA28E8EB92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{8041C700-5167-4839-867D-2F8BB6DCE613}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8041C700-5167-4839-867D-2F8BB6DCE613}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8041C700-5167-4839-867D-2F8BB6DCE613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A26A383A-2122-42D6-8C2C-D15AC2422E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26A383A-2122-42D6-8C2C-D15AC2422E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26A383A-2122-42D6-8C2C-D15AC2422E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26A383A-2122-42D6-8C2C-D15AC2422E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E693C2F8-1BB3-4FF0-B344-18DA28E8EB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E693C2F8-1BB3-4FF0-B344-18DA28E8EB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E693C2F8-1BB3-4FF0-B344-18DA28E8EB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E693C2F8-1BB3-4FF0-B344-18DA28E8EB92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
